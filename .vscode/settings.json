@@ -1,0 +1,11 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "customer_analytics",
+            "database": "${workspaceFolder}/data/customer_analytics.db"
+        }
+    ],
+    "sqltools.useNodeRuntime": true
+}

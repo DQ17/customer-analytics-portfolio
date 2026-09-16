@@ -1,0 +1,9 @@
+# Raw/generated data - large binary files, regenerate with scripts/load_data.py
+data/online_retail.xlsx
+data/customer_analytics.db
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
