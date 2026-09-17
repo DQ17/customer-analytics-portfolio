@@ -1,7 +1,7 @@
-# Customer Analytics Portfolio Project
+# Customer Analytics Project
 
-Real transaction-level data from a UK-based online gift retailer (Dec 2010 - Dec 2011,
-~540k line items), analyzed twice — once in SQL, once in Python (pandas) — to answer
+This project analyses real data from a UK-based online gift retailer (Dec 2010 - Dec 2011,
+~540k line items), using SQL and Python (pandas) to answer
 real business questions about customers, revenue, and retention, and to compare how
 the same analysis reads in each tool.
 
