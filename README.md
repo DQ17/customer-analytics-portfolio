@@ -90,8 +90,3 @@ snapshot), so it always reflects the current state of the database.
 ```bash
 streamlit run scripts/dashboard.py
 ```
-
-## Ideas to extend this project
-
-- Customer lifetime value (CLV) prediction
-- Write up 3-4 key findings as a short "executive summary" — a good portfolio talking point
